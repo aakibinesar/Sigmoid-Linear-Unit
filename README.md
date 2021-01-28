@@ -6,7 +6,7 @@ This project is a work on Sigmoid Linear Unit (SiLU), a variation of Gaussian Er
 The project was motivated from this paper: Hendrycks, Dan, and Kevin Gimpel. "Gaussian error linear units (gelus)." arXiv preprint arXiv: 1606.08415 (2016).
 
 For DNN implementation, check:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1r1nHJ3lqaWbuynpKZDMQvNLnJkD_BVlr/]
+[![Open In Colab](https://colab.research.google.com/drive/1r1nHJ3lqaWbuynpKZDMQvNLnJkD_BVlr/)]
 
 For CNN implementation, check:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EMq3fgEM714dinUbATZVWiaphBJQTOvZ/]
+[![Open In Colab](https://colab.research.google.com/drive/1EMq3fgEM714dinUbATZVWiaphBJQTOvZ/)]
